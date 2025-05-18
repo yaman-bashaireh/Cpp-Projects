@@ -1,1 +1,1 @@
-learning C++ and starting my journey into the world of programming. My focus is on writing clean, readable, and maintainable code, and I'm building small projects to apply what I learn along the way.
+My focus is on writing clean, readable, and maintainable code, ✅ Built my own C++ library to reuse and organize common functionality , and I'm building small projects to apply what I learn along the way.
