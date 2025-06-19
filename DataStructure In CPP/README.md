@@ -1,5 +1,3 @@
-# Algorithms & Problem-Solving Level 5
-
 1. [Doubly Linked List Data Structure](src/_1_doubly_linked_list_data_structure)
     - Insert First Method
     - Print Values Method
