@@ -1,0 +1,94 @@
+# Algorithms & Problem-Solving Level 5
+
+1. [Doubly Linked List Data Structure](src/_1_doubly_linked_list_data_structure)
+    - Insert First Method
+    - Print Values Method
+    - Print Values Backward Method
+    - Find Node Method
+    - Insert After Method
+    - Insert Last Method
+    - Delete Node Method
+    - Delete First Method
+    - Delete Last Method
+    - Size Method
+    - Is Empty Method
+    - Clear Method
+    - Reverse Method
+    - Get Node by Index Method
+    - Get Item by Index Method
+    - Update Item by Index Method
+    - Insert Value After by Index Method
+2. [Queue Data Structure](src/_2_queue_data_structure)
+    - Enqueue Method
+    - Dequeue Method
+    - Size Method
+    - Print Values Method
+    - Front Value Method
+    - Rear (Back) Value Method
+    - Is Empty Method
+    - Find Node Method
+    - Get Item by Index Method
+    - Update Item by Index Method
+    - Reverse Method
+    - Clear Method
+    - Insert First Method
+    - Insert After Method
+3. [Stack Data Structure](src/_3_stack_data_structure)
+    - Push Method
+    - Print Values Method
+    - Size Method
+    - Top Value Method
+    - Bottom Value Method
+    - Pop Method
+    - Find Node by Index Method
+    - Get Item by Index Method
+    - Reverse Method
+    - Update Item by Index Method
+    - Clear Method
+    - Insert After Method
+    - Insert Last Method
+4. [Dynamic Array Data Structure](src/_4_dynamic_array_data_structure)
+    - Set Item Method
+    - Print Values Method
+    - Is Empty Method
+    - Get Size Method
+    - Get Capacity Method
+    - Shrink to Fit Method
+    - Resize Method
+    - Clear Method
+    - Get Item Method
+    - Reverse Method
+    - Delete Item Method
+    - Delete First Method
+    - Delete Last Method
+    - Find Item Method
+    - Find Item by Value Method
+    - Insert At Method
+    - Insert After Method
+    - Insert Before Method
+    - Insert First Method
+    - Insert Last Method
+5. [Call Stack](src/_5_call_stack)
+    - Set Value Method
+    - Get Value Method
+    - Undo Method
+    - Redo Method
+6. [Ticket Management System](src/_6_ticket_management_system)
+    - Libraries
+        - DateTime
+            - Date
+            - Time
+        - Utils
+    - Data Structures
+        - Queue
+    - Models
+        - Ticket
+    - Methods
+        - Issue Ticket
+        - Print Information
+        - Print Waiting Client Line
+        - Print All Tickets
+        - Serve Client
+        - Print Served Clients
+        - Print Waiting Clients
+        - Who is Next
